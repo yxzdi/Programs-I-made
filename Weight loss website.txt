@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+
+    <h1>LOSING WEIGHT </h1>
+    <h2>I am going to share with you 2 main factors to losing weight and some tips to help you on your journey.</h2>
+</head>
+
+<body>
+<img src = "http://p6-tt-ipv6.byteimg.com/large/pgc-image/c09f08d15a074910bc30374928734200?from=detail&index=0" alt = "A fat anime character">
+<p>
+    The 2 main factors which help you lose weight are <a href="#caloric-deficit">caloric deficit</a> and a <a href = "workout">workout plan</a>.
+</p>
+<h3 id = "caloric-deficit">Caloric Deficit</h3>
+<img src = "https://i.pinimg.com/originals/43/e5/25/43e5250eb3e61408e02b7357cc93407d.gif" a = "Luffy eating with Ace and his grandpa">
+<p>
+    The only way to lose weight is being in a caloric deficit. This means that you eat less calories than your body needs. As a result your body burns fat to get energy.So, what you need to do is
+    download 'MyFitnessPal' app and track your calories. Even if you eat junk foods. You need to eat 100-200 calories less than your recommended daily intake.
+</p>
+<h3 id = "workout">Workout Plan</h3>
+
+<img src = "https://i.pinimg.com/originals/84/de/44/84de4453402f16871fc59d5fd00ac024.gif" a = "Zoro working out">
+<p>
+    You also need to download "30 Days Weightloss Workout" app and excercise consistantly. This will help you burn calories and build muscle. A mistake that I did when working out was not completing the set, basically taking rest
+    between reps which meant I didn't make my muscle tissues sore enough so that muscle growth could happen in its full potential. You need to finish the set or do it until your muscle tissues
+    are sore before taking break.
+</p>
+<h3>And some tips to help you out <3</h3>
+
+<ol>
+    <li>Drink a glass of water 15 minutes before you eat which will make you eat less as you will feel full.</li>
+    <li>Don't be too hard on yourself. You can occasionally give yourself a treat. Remember weight loss is not a short process so this process needs to be sustainable for you</li>
+    <LI>If you have any questions you can ask me in the question box below.</LI>
+</ol>
+<form action="https://submit-form.com/0y8CvMS6">
+    <label for = "question"></label>
+    <input type = "text" id = "question"  placeholder="Do you have any questions?" >
+    <button type = "submit" >Submit</button>
+
+</form>
+</body>
+</html>
